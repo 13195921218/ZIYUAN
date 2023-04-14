@@ -1,0 +1,347 @@
+2023-03-24 11:26:42.330 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 7444 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:26:42.333 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:26:43.488 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:26:43.497 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:26:43.498 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:26:43.499 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:26:43.756 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:26:43.756 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1366 ms
+2023-03-24 11:26:44.114 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:26:44.132 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:26:44.142 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 2.389 seconds (JVM running for 5.748)
+2023-03-24 11:27:03.932 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:27:03.933 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:27:03.934 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:28:26.321 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 9504 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:28:26.324 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:28:27.317 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:28:27.326 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:28:27.327 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:28:27.327 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:28:27.438 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:28:27.439 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1060 ms
+2023-03-24 11:28:27.748 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:28:27.764 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:28:27.774 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.998 seconds (JVM running for 4.658)
+2023-03-24 11:28:31.379 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:28:31.380 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:28:31.383 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:31:06.789 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 7588 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:31:06.793 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:31:07.875 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:31:07.882 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:31:07.883 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:31:07.883 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:31:07.997 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:31:07.998 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1062 ms
+2023-03-24 11:31:08.333 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:31:08.350 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:31:08.360 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 2.119 seconds (JVM running for 4.883)
+2023-03-24 11:31:11.564 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:31:11.564 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:31:11.565 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:32:39.648 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 5264 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:32:39.650 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:32:40.471 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:32:40.478 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:32:40.479 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:32:40.479 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:32:40.586 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:32:40.587 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 893 ms
+2023-03-24 11:32:40.898 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:32:40.915 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:32:40.924 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.752 seconds (JVM running for 4.266)
+2023-03-24 11:32:45.607 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:32:45.608 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:32:45.609 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 0 ms
+2023-03-24 11:35:26.977 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 12480 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:35:26.980 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:35:27.814 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:35:27.821 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:35:27.822 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:35:27.822 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:35:27.945 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:35:27.945 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 921 ms
+2023-03-24 11:35:28.303 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:35:28.320 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:35:28.331 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.834 seconds (JVM running for 4.417)
+2023-03-24 11:35:31.308 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:35:31.310 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:35:31.317 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:36:41.589 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 8828 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:36:41.592 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:36:42.715 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:36:42.723 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:36:42.724 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:36:42.724 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:36:42.836 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:36:42.837 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1165 ms
+2023-03-24 11:36:43.149 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:36:43.166 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:36:43.177 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 2.083 seconds (JVM running for 5.05)
+2023-03-24 11:36:47.249 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:36:47.250 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:36:47.251 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:38:56.271 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 3060 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:38:56.282 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:38:57.199 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:38:57.210 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:38:57.212 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:38:57.213 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:38:57.342 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:38:57.342 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1007 ms
+2023-03-24 11:38:57.696 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:38:57.712 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:38:57.722 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.896 seconds (JVM running for 4.458)
+2023-03-24 11:39:00.381 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:39:00.382 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:39:00.384 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:40:18.073 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 12516 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:40:18.076 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:40:18.930 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:40:18.938 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:40:18.939 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:40:18.939 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:40:19.050 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:40:19.050 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 924 ms
+2023-03-24 11:40:19.367 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:40:19.384 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:40:19.394 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.801 seconds (JVM running for 4.279)
+2023-03-24 11:40:23.438 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:40:23.446 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:40:23.450 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 2 ms
+2023-03-24 11:40:52.656 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 11576 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:40:52.659 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:40:53.488 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:40:53.496 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:40:53.497 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:40:53.497 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:40:53.612 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:40:53.612 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 906 ms
+2023-03-24 11:40:53.940 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:40:53.956 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:40:53.964 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.83 seconds (JVM running for 4.362)
+2023-03-24 11:40:57.921 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:40:57.921 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:40:57.922 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:42:14.221 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 1552 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:42:14.225 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:42:15.038 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:42:15.048 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:42:15.049 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:42:15.050 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:42:15.157 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:42:15.158 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 883 ms
+2023-03-24 11:42:15.467 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:42:15.483 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:42:15.493 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.779 seconds (JVM running for 4.344)
+2023-03-24 11:42:19.506 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:42:19.507 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:42:19.508 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:42:53.739 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 7712 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:42:53.742 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:42:54.578 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:42:54.588 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:42:54.588 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:42:54.588 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:42:54.714 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:42:54.715 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 924 ms
+2023-03-24 11:42:55.058 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:42:55.075 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:42:55.085 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.856 seconds (JVM running for 4.397)
+2023-03-24 11:42:58.933 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:42:58.934 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:42:58.936 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 2 ms
+2023-03-24 11:43:34.367 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 2180 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:43:34.371 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:43:35.195 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:43:35.204 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:43:35.204 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:43:35.205 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:43:35.319 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:43:35.319 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 901 ms
+2023-03-24 11:43:35.627 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:43:35.643 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:43:35.653 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.726 seconds (JVM running for 4.285)
+2023-03-24 11:43:39.710 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:43:39.710 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:43:39.712 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:45:35.005 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 10072 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:45:35.011 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:45:36.004 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:45:36.013 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:45:36.014 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:45:36.015 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:45:36.132 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:45:36.132 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1008 ms
+2023-03-24 11:45:36.480 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:45:36.496 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:45:36.505 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 2.007 seconds (JVM running for 4.599)
+2023-03-24 11:45:38.441 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:45:38.441 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:45:38.443 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 11:46:47.783 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 12716 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 11:46:47.786 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 11:46:48.623 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 11:46:48.630 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:46:48.631 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 11:46:48.631 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 11:46:48.743 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 11:46:48.743 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 892 ms
+2023-03-24 11:46:49.071 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 11:46:49.087 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 11:46:49.102 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.953 seconds (JVM running for 4.634)
+2023-03-24 11:46:51.175 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 11:46:51.175 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 11:46:51.176 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 15:00:01.490 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 14192 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:00:01.493 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:00:02.306 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:00:02.314 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:00:02.315 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:00:02.315 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:00:02.425 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:00:02.425 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 895 ms
+2023-03-24 15:00:02.780 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:00:02.797 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:00:02.807 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.671 seconds (JVM running for 4.248)
+2023-03-24 15:00:06.378 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:00:06.381 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:00:06.382 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 15:03:28.492 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 4084 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:03:28.494 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:03:29.327 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:03:29.335 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:03:29.336 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:03:29.336 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:03:29.597 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:03:29.598 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1058 ms
+2023-03-24 15:03:29.901 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:03:29.918 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:03:29.928 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.914 seconds (JVM running for 4.429)
+2023-03-24 15:03:34.301 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:03:34.301 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:03:34.302 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 0 ms
+2023-03-24 15:04:31.439 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 10552 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:04:31.444 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:04:32.470 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:04:32.480 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:04:32.482 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:04:32.482 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:04:32.616 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:04:32.616 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1112 ms
+2023-03-24 15:04:32.942 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:04:32.958 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:04:32.967 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 2.032 seconds (JVM running for 4.696)
+2023-03-24 15:04:35.154 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:04:35.155 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:04:35.156 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 0 ms
+2023-03-24 15:31:10.766 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 1596 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:31:10.770 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:31:11.593 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:31:11.601 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:31:11.602 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:31:11.603 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:31:11.716 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:31:11.717 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 907 ms
+2023-03-24 15:31:12.045 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:31:12.063 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:31:12.074 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.825 seconds (JVM running for 4.394)
+2023-03-24 15:31:14.235 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:31:14.235 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:31:14.238 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 2 ms
+2023-03-24 15:36:09.660 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 14368 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:36:09.662 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:36:10.520 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:36:10.531 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:36:10.532 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:36:10.532 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:36:10.657 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:36:10.657 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 946 ms
+2023-03-24 15:36:10.973 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:36:10.989 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:36:10.997 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.828 seconds (JVM running for 4.391)
+2023-03-24 15:36:14.345 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:36:14.346 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:36:14.349 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 2 ms
+2023-03-24 15:37:23.134 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 720 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:37:23.137 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:37:24.019 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:37:24.026 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:37:24.027 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:37:24.027 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:37:24.135 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:37:24.136 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 957 ms
+2023-03-24 15:37:24.446 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:37:24.462 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:37:24.471 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.853 seconds (JVM running for 4.441)
+2023-03-24 15:37:28.742 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:37:28.743 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:37:28.745 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 0 ms
+2023-03-24 15:39:20.660 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 7516 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:39:20.663 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:39:21.599 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:39:21.608 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:39:21.609 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:39:21.609 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:39:21.731 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:39:21.731 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 1023 ms
+2023-03-24 15:39:22.090 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:39:22.108 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:39:22.119 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.939 seconds (JVM running for 4.437)
+2023-03-24 15:39:24.325 - [] - [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:39:24.326 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:39:24.328 - [] - [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 15:40:57.371 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 4144 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:40:57.374 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:40:58.175 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:40:58.182 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:40:58.183 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:40:58.183 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:40:58.292 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:40:58.292 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 875 ms
+2023-03-24 15:40:58.615 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:40:58.631 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:40:58.642 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.744 seconds (JVM running for 4.3)
+2023-03-24 15:41:02.624 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:41:02.625 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:41:02.626 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 15:41:59.790 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 6516 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:41:59.793 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:42:00.629 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:42:00.638 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:42:00.639 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:42:00.639 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:42:00.759 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:42:00.759 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 922 ms
+2023-03-24 15:42:01.104 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:42:01.124 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:42:01.134 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.751 seconds (JVM running for 4.335)
+2023-03-24 15:45:01.761 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 10312 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:45:01.764 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:45:02.658 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:45:02.668 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:45:02.669 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:45:02.669 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:45:02.787 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:45:02.787 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 981 ms
+2023-03-24 15:45:03.126 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:45:03.144 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:45:03.153 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.867 seconds (JVM running for 4.427)
+2023-03-24 15:45:06.096 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:45:06.097 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:45:06.098 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
+2023-03-24 15:50:22.283 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarting(55) - Starting ZiyuanApplication using Java 1.8.0_221 on YeBo with PID 8916 (E:\HSAF\ZIYUAN\target\classes started by YeBo in E:\HSAF\ZIYUAN)
+2023-03-24 15:50:22.286 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStartupProfileInfo(631) - No active profile set, falling back to 1 default profile: "default"
+2023-03-24 15:50:23.173 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize(108) - Tomcat initialized with port(s): 8080 (http)
+2023-03-24 15:50:23.181 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:50:23.182 - [] - [main] INFO  org.apache.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+2023-03-24 15:50:23.182 - [] - [main] INFO  org.apache.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-03-24 15:50:23.298 - [] - [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+2023-03-24 15:50:23.298 - [] - [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext(292) - Root WebApplicationContext: initialization completed in 955 ms
+2023-03-24 15:50:23.626 - [] - [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-24 15:50:23.643 - [] - [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start(220) - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-24 15:50:23.653 - [] - [main] INFO  com.example.ziyuan.ZiyuanApplication.logStarted(61) - Started ZiyuanApplication in 1.932 seconds (JVM running for 4.467)
+2023-03-24 15:50:27.461 - [] - [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-24 15:50:27.461 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+2023-03-24 15:50:27.462 - [] - [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 1 ms
