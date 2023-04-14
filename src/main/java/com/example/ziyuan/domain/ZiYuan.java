@@ -1,5 +1,8 @@
 package com.example.ziyuan.domain;
 
+import lombok.Data;
+
+//@Data
 public class ZiYuan {
     private String vdcName;
     private String cloudLocationName;

@@ -12,6 +12,7 @@ import org.slf4j.LoggerFactory;
 public class ZiYuanController {
     private static final Logger logger = LoggerFactory.getLogger(ZiYuanController.class);
 
+    //它可以对类成员变量、方法及构造函数进行标注,完成自动装配的工作
     @Autowired
     ZiYuanService ziyuanService;
 

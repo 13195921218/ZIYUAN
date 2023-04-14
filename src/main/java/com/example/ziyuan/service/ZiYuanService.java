@@ -20,7 +20,7 @@ public class ZiYuanService {
         public void httpRequestEcsList () {
             BufferedReader in = null;
             try {
-                String s = readJsonFile("E:\\HSAF\\ziyuan.json");
+                String s = readJsonFile("./json/ziyuan.json");
                 //获取数据
                 JSONObject jsonObject = JSON.parseObject(s);
                 JSONArray jsonArray = jsonObject.getJSONArray("objList");
@@ -91,7 +91,7 @@ public class ZiYuanService {
     public void httpRequestDcsList () {
         BufferedReader in = null;
         try {
-            String s = readJsonFile("E:\\HSAF\\dcs.json");
+            String s = readJsonFile("./json/dcs.json");
             //获取数据
             JSONObject jsonObject = JSON.parseObject(s);
             JSONArray jsonArray = jsonObject.getJSONArray("objList");
